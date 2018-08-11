@@ -67,7 +67,7 @@ body {
         padding-top: 30px;
         padding-bottom: 20px;
         float: left;
-        
+        /* clear: both;*/
     
     
     }
@@ -80,7 +80,7 @@ body {
         padding-bottom: 20px;
         margin-top: 20px;
         margin-left: 20px;
-        
+       
     }
     
     .box1 {
@@ -91,6 +91,7 @@ body {
         padding-bottom: 20px;
         margin-left: 25px;
         margin-top: 20px;
+        
         
     }
     
@@ -103,7 +104,7 @@ body {
         margin-left: 25px;
         margin-right: 50px;
         margin-top: 10px;
-       
+      
     }
    
     aside {
@@ -114,6 +115,7 @@ body {
         width: 450px;
         float: right;
         margin-bottom: 20px;
+       /* clear: both;*/
         
     }
     
@@ -122,5 +124,5 @@ body {
         color: #777;
         padding-top: 30px;
         padding-bottom: 30px;
-        clear: both;
+        clear: both; 
     }
